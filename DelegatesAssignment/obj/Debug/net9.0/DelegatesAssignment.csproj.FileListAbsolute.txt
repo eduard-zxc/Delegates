@@ -1,0 +1,14 @@
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/bin/Debug/net9.0/DelegatesAssignment
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/bin/Debug/net9.0/DelegatesAssignment.deps.json
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/bin/Debug/net9.0/DelegatesAssignment.runtimeconfig.json
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/bin/Debug/net9.0/DelegatesAssignment.dll
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/bin/Debug/net9.0/DelegatesAssignment.pdb
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/obj/Debug/net9.0/DelegatesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/obj/Debug/net9.0/DelegatesAssignment.AssemblyInfoInputs.cache
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/obj/Debug/net9.0/DelegatesAssignment.AssemblyInfo.cs
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/obj/Debug/net9.0/DelegatesAssignment.csproj.CoreCompileInputs.cache
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/obj/Debug/net9.0/DelegatesAssignment.dll
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/obj/Debug/net9.0/refint/DelegatesAssignment.dll
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/obj/Debug/net9.0/DelegatesAssignment.pdb
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/obj/Debug/net9.0/DelegatesAssignment.genruntimeconfig.cache
+/Users/eduard/Wokspace/Amdaris/Delegates/DelegatesAssignment/obj/Debug/net9.0/ref/DelegatesAssignment.dll
